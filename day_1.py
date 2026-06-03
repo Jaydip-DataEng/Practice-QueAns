@@ -1,2 +1,2 @@
-def new
+def new:
     print("my world")
